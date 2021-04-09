@@ -1,7 +1,7 @@
-## WhatsBot
+### WhatsBot
 Simplified Automated Whatsapp Bulk Message Tool
 
-## Prerequisites
+### Prerequisites & How to Run?
 Python 3.8, Selenium Web Driver, Google Chrome
 
 Step 1: Download ChromeDriver from https://chromedriver.chromium.org/downloads for your respective driver version.
